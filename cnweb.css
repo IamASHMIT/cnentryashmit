@@ -1,0 +1,119 @@
+body {
+  width: 2000px;
+height: 4102px;
+  font-family: sans-serif;
+}
+
+p1 {
+  color: #000;
+  font-family: 'Proxima Nova', sans-serif;
+font-size: 27.147px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+p2 {
+  color: #000;
+font-family:'Averta Demo';
+font-size: 27.147px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+ .container {
+  padding: 42px 120px;
+  align-items: center;
+  justify-content: space-between;
+ }
+
+ nav {
+  display:inline;
+  padding-left: 428px;
+  color: #000;
+font-family:'Averta Demo';
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.16px;
+ }
+
+nav ul {
+  display:inline;
+}
+ nav li{
+  display:inline;
+  padding: 40px;
+ }
+
+ nav a {
+  text-decoration: none;
+  color: black;
+}
+.main{
+  padding-left: 120px;
+  padding: 239px 120px;
+  width: 50%;
+  float: left;
+
+}
+.main1 {
+  color: #000;
+  font-family: 'Averta Demo';
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+content{
+  width: 20%;
+  padding: 328px 120px;
+  padding-right: 849px;
+  display: inline;
+  
+}
+.main2 {
+  color: #565656;
+font-family:'Averta Demo';
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+width: 20%;
+}
+button{
+  color: #FFF;
+  font-family: 'Averta Demo';
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 1.3px;
+  display: inline-flex;
+  padding: 20px 40px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 60px;
+  background: #2639ED;
+  border: none;
+}
+.image {
+  position: absolute;
+  top: 116px;
+  left: 686px;
+  margin: 0 0 0 116px;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+   border-radius: 0px 0px 0px 200px;
+}
+
+ 
+
+.contact-form {
+  position: relative;
+  z-index: 0;
+}
